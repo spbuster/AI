@@ -2,13 +2,18 @@
 
 This folder contains key ML-related files and examples for common tasks in data preprocessing and modeling.
 
-## 📌 Contents
+## 📌 DATA MANIPULATION
 
 ### 🔹 Handling Missing Values
-Examples showing how to detect, drop, fill, and flag missing values in datasets.
+Code showing how to detect, drop, fill, and flag missing values in datasets.
 
 ### 🔹 Joining Data
 Code for merging datasets using different join types (inner, left, right, outer).
+
+### 🔹 Filtering Data
+Code for filtering data set and getting analytical insights
+
+## 📌 ML MODELS
 
 ### 🔹 Classification Models
 Sample projects for classifying categorical targets using Logistic Regression, Random Forest, and XGBoost.

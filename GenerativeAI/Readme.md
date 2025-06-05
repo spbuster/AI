@@ -4,7 +4,7 @@ This folder contains key Generative AI Related resources
 
 ## 📌 AI Agents
 
-### 🔹 AI Agent Scraping tex from an article & Summarizing it
+### 🔹 AI Agent Scraping text from an article & Summarizing it
 
 
 ## 📌 Multi Modal
@@ -12,6 +12,6 @@ This folder contains key Generative AI Related resources
 ### 🔹 Converting a voice message to a text
 
 
-## Voice Agent Definition for cold calling
+### Voice Agent Definition for cold calling
 
 
